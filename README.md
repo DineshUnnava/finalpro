@@ -1,7 +1,7 @@
 ## finalpro : future ready talent project by Unnava Dinesh Chowdary
 Here i create a food blog web app named foodie that helps the user to check details about food taste, spice levels and chef rating..etc
 
-## website link : https://dineshunnava.github.io/finalpro/
+## website link : https://purple-ocean-00a039910.1.azurestaticapps.net
 
 ## Home Page
 ![Screenshot (517)](https://user-images.githubusercontent.com/88071250/179692387-3f184f79-160b-4623-97c5-ed6436ffcaca.png)
